@@ -7,11 +7,11 @@ const App = (props) => {
   return (
     <div className="App">
       <header className="App-header">
-        <NameText name="Jack" />
+        <NameText name="Uozumi" />
         <Profile age={22} country="US" gender="Male" />
-        <NameText name="Mary" />
+        <NameText name="Uozumi" />
         <Profile age={20} country="UK" gender="Female" />
-        <NameText name="Kazu" />
+        <NameText name="Uozumi" />
 
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -19,7 +19,7 @@ const App = (props) => {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://atrae.co.jp/"
           target="_blank"
           rel="noopener noreferrer"
         >

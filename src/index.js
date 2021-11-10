@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App linkText="リア区のトイんく" name="uozumi" />
+    <App linkText="Uozumiの部屋" name="uozumi" />
   </React.StrictMode>,
   document.getElementById('wevox')
 );
